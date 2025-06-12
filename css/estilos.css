@@ -1,0 +1,90 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+header {
+	text-align:center;
+	;
+}
+
+nav {text-align: center;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	padding: 4px;
+	font-size: 20px;
+}
+
+
+nav li {
+  display: inline;
+  margin: 0 15px;
+
+}
+
+
+
+body {
+	padding: 2px;
+	padding-right: 0.5px;
+	background-color: black;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	line-height: 1px}
+
+
+
+
+h2 {font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+}
+
+    
+h4{font-family: 'Open Sans', sans-serif;
+    font-size: 25px;}
+
+p {font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+#foto img {
+  float: left;
+  height: 500 px;
+  width: 500px;
+  padding-block: 20px;
+ padding-left: 100px;
+   }
+
+  #texto {
+  float: right;
+  width: 40%;
+  padding-right:100px ;
+    }
+
+
+
+#nombre {
+  float: left;
+  font-size: 16px;
+  line-height: 50px;
+  margin-left: 20px;
+}
+
+#logouces {
+  float: right;
+  margin-right: 20px;
+}
+
+#logouces img {
+  height: 50px;
+  display: block;
+}
+
+footer {
+background-color: black;
+  color: white;
+  padding: 10px 20px;
+  font-family: 'Segoe UI Variable', sans-serif;
+  clear: both;
+height: 60px; }
